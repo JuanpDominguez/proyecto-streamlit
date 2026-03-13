@@ -1,3 +1,2 @@
 # proyecto-streamlit
-Repositorio de práctica
-para el curso IA OH
+Repositorio de práctica para el curso IA OH
